@@ -1,2 +1,0 @@
-C:\Users\user\Desktop\Data-structure\Data_Structure_Stack\Data_Structure_Stack(Array)\Debug\Data_Structure_Stack.exe
-C:\Users\user\Desktop\Data-structure\Data_Structure_Stack\Data_Structure_Stack(Array)\Debug\Data_Structure_Stack.pdb

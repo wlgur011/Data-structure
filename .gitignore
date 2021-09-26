@@ -12,3 +12,9 @@
 *.lastbuildstate
 *.suo
 *.db
+*.txt
+*.recipe
+*.sln
+*.vcxproj
+*.user
+*.filters
