@@ -1,6 +1,8 @@
 /.vs
 /GLSLBase/x64
 /ipch
+/Debug
+
 *.exe
 *.ilk
 *.pdb
