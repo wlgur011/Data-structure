@@ -12,7 +12,7 @@ int main()
 	{
 		for (int j = 0; j < MAX - i - 1; ++j)
 		{
-			if (number[j] > number[j+1])
+			if (number[j] > number[j+1]) 
 			{
 				swap(number[j], number[j + 1]);
 			}
